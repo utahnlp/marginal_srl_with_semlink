@@ -1,5 +1,22 @@
 
+---
 
+Implementation of our EMNLP Findings 2023 paper: [Learning Semantic Role Labeling from Compatible Label Sequences](https://aclanthology.org/2023.findings-emnlp.1041/)
+```
+@inproceedings{li-etal-2023-learning-semantic,
+    title = "Learning Semantic Role Labeling from Compatible Label Sequences",
+    author = "Li, Tao  and
+      Kazeminejad, Ghazaleh  and
+      Brown, Susan  and
+      Srikumar, Vivek  and
+      Palmer, Martha",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    year = "2023",
+    url = "https://aclanthology.org/2023.findings-emnlp.1041",
+    doi = "10.18653/v1/2023.findings-emnlp.1041",
+}
+```
+---
 
 -----
 
