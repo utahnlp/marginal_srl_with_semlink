@@ -33,7 +33,7 @@ print(outputs)
 
 ```
 
-The output should look like:
+The output should look like the below. For each predicate (vnclass, sense) pair, there will be a corresponding sequence of VN tags and SRL tags.
 ```
 {
 	'vn_output': [[
