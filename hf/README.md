@@ -1,7 +1,7 @@
 
 ## Inference demo
 
-This subrepo host cleaned code that are necessary for inference.
+This subrepo hosts cleaned code that are necessary for inference.
 
 -----
 
