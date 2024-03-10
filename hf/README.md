@@ -32,3 +32,17 @@ outputs = model.classify(batch)
 print(outputs)
 
 ```
+
+The output should look like:
+```
+{
+	'vn_output': [[
+		'(AGENT* *) (V*) (TOPIC* * * * * * * * * *) *',
+		'* * * (AGENT*) * * * (V*) (THEME* * * * *) *'
+		]],
+	'srl_output': [[
+		'(ARG0* *) (V*) (ARG1* * * * * * * * * *) *',
+		'* * * (ARG0*) * * * (V*) (ARG1* * * * *) *'
+		]]
+}
+```
